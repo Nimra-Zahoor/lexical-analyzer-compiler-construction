@@ -1,0 +1,3 @@
+INT X = 10;
+IF 
+DO WHILE X 
